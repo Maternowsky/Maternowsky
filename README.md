@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maternowsky
-- 👀 I’m interested in Cardano Blockchain Coding
-- 🌱 I’m currently learning Haskell/Plutus
-- 💞️ I’m looking to collaborate on smart contracts and NFT minting
+- 👀 I’m interested in Data Science, Machine Learning, Python, Haskell, Cardano Blockchain Coding
+- 🌱 I’m currently learning Python, Haskell/Plutus
+- 💞️ I’m looking to collaborate on Machine Learning Open Source, smart contracts 
 - 📫 Reach me at maternowsky@gmail.com
 
 <!---
